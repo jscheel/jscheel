@@ -21,22 +21,6 @@ I'm a full-stack engineer who loves building software systems and teams. I've be
 - **Hacker News:** [https://news.ycombinator.com/user?id=jscheel](https://news.ycombinator.com/user?id=jscheel)
 <br /><br />
 
-### Technical Skills
-- **Programming:** Proficient in JavaScript, Ruby, and Python with a deep understanding of complex system design.
-- **System Architecture and API Design:** Extensive experience in designing and implementing scalable microservices and monolithic systems using modern technologies.
-- **Realtime Data Processing:** Developed high-performance data systems capable of synchronizing millions of messages seamlessly.
-- **Cloud Infrastructure:** Implemented cloud solutions using AWS, Kubernetes, and Helm to enhance system efficiency and reliability.
-- **Generative AI:** Engineered new generative AI products including RAG pipelines and LLM-powered features.
-<br /><br />
-
-### Leadership & Management Skills
-- **Engineering Team Leadership:** Proven experience in leading and scaling high-performance engineering teams.
-- **Strategic Planning and Execution:** Expert in setting actionable goals and aligning project deliverables with business objectives.
-- **Stakeholder Engagement:** Experienced in orchestrating effective collaboration across teams to shepherd projects to success.
-- **Technical Mentorship:** Skilled in coaching engineers on advanced concepts including system architecture, scalability, and reliability.
-- **Cost Management:** Discovered significant reductions in operational costs through resource optimization.
-<br /><br />
-
 ### 🛠 Technologies
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
