@@ -6,7 +6,7 @@ I'm a full-stack engineer who loves building software systems and teams. I've be
 
 ### 🌟 Highlights
 
-🎩 Currently Head of Engineering at [Groove](https://www.groovehq.com)
+🎩 Currently Head of Engineering at [Helply](https://www.helply.com)
 
 🚀 [500 Startups](https://500.co/) Alumnus (technical co-founder)
 
