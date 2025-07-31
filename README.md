@@ -6,11 +6,11 @@ I'm a full-stack engineer who loves building software systems and teams. I've be
 
 ### 🌟 Highlights
 
-🎩 Currently Head of Engineering at [Helply](https://www.helply.com)
+🎩 Currently Head of Engineering at [OptimizeCX](https://optimizecx.com), where we build [Groove](https://www.groovehq.com), [Helply](https://www.helply.com), and [InstantDocs](https://www.instantdocs.com).
 
 🚀 [500 Startups](https://500.co/) Alumnus (technical co-founder)
 
-🗳️ Fun fact - I recently ran for [public office](https://www.voteforjared.com)
+🗳️ Fun fact - I recently ran for [public office](https://www.voteforjared.com)... it didn't work out. Still had a blast and learned a lot.
 <br /><br />
 
 ### 🔍 How to Find Me
