@@ -2,7 +2,7 @@
 
 ### Full-Stack Software Engineer | Technical Leader
 
-I'm a full-stack engineer who loves building software systems and teams. I've been a technical co-founder (with a successful exit under my belt), and I've built high-performing, growing SaaS products for years. Frontend, backend, infrastructure, devops, generative AI, and more. Let's build something awesome together!
+I'm a full-stack engineer who loves building software systems and teams. I've been a technical co-founder (with a successful exit under my belt), and I've built high-performing, growing SaaS products for years. Frontend, backend, infrastructure, devops, applied AI, and more. Let's build something awesome together!
 
 ### 🌟 Highlights
 
