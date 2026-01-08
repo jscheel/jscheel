@@ -6,7 +6,7 @@ I'm a full-stack engineer who loves building software systems and teams. I've be
 
 ### 🌟 Highlights
 
-🎩 Currently Head of Engineering at [OptimizeCX](https://optimizecx.com), where we build [Groove](https://www.groovehq.com), [Helply](https://www.helply.com), and [InstantDocs](https://www.instantdocs.com).
+🎩 Currently Head of Engineering at GrooveHQ, where we build [Groove](https://www.groovehq.com), [Helply](https://www.helply.com), and [InstantDocs](https://www.instantdocs.com).
 
 🚀 [500 Startups](https://500.co/) Alumnus (technical co-founder)
 
