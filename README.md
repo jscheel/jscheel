@@ -20,7 +20,7 @@ Product-focused full-stack software engineer and technical leader who ships. For
 - **Hacker News:** [https://news.ycombinator.com/user?id=jscheel](https://news.ycombinator.com/user?id=jscheel)
 <br /><br />
 
-### 🛠 Technologies
+<!--### 🛠 Technologies
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
@@ -50,3 +50,4 @@ Product-focused full-stack software engineer and technical leader who ships. For
 ![Generative AI](https://img.shields.io/badge/-Generative_AI-4285F4?style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+-->
