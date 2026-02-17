@@ -15,7 +15,6 @@ Product-focused full-stack software engineer and technical leader who ships. For
 
 ### 🔍 How to Find Me
 - **Website:** [https://jaredscheel.com](https://jaredscheel.com)
-- **Resume / CV:** [View online](https://standardresume.co/r/jscheel) | [Download PDF](https://www.dropbox.com/scl/fi/7cnqx1cste2osv3j1v5po/jared-a-scheel-resume.pdf?rlkey=wf2kd4rrw7yfqciqyhykxh9vl&e=1&dl=1)
 - **Twitter / X:** [https://twitter.com/jscheel](https://twitter.com/jscheel)
 - **LinkedIn:** [https://www.linkedin.com/in/jscheel](https://www.linkedin.com/in/jscheel)
 - **Hacker News:** [https://news.ycombinator.com/user?id=jscheel](https://news.ycombinator.com/user?id=jscheel)
