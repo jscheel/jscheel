@@ -1,8 +1,8 @@
 # Hello, I'm Jared Scheel 👋
 
-### Full-Stack Software Engineer | Technical Leader
+### Full-Stack Software Engineer and Technical Leader
 
-I'm a full-stack engineer who loves building software systems and teams. I've been a technical co-founder (with a successful exit under my belt), and I've built high-performing, growing SaaS products for years. Frontend, backend, infrastructure, devops, applied AI, and more. Let's build something awesome together!
+Product-focused full-stack software engineer and technical leader who ships. Former venture-backed technical co-founder (acquired). I build and scale SaaS products with end-to-end ownership from architecture to production. Hands-on where it counts.
 
 ### 🌟 Highlights
 
