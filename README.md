@@ -6,7 +6,7 @@ Product-focused full-stack software engineer and technical leader who ships. For
 
 ### 🌟 Highlights
 
-🎩 Currently Head of Engineering at GrooveHQ, where we build [Groove](https://www.groovehq.com), [Helply](https://www.helply.com), and [InstantDocs](https://www.instantdocs.com).
+🎩 CTO and co-founder of [Helply](https://www.helply.com) (formerly [Groove](https://www.groovehq.com))
 
 🚀 [500 Startups](https://500.co/) Alumnus (technical co-founder)
 
